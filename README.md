@@ -17,4 +17,4 @@ train.csv - you will use this to train your model.
 test.csv - you will use this to test your model.
 SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the UIDs must be correct. You must predict growth_stage for the corresponding images.
 
-dataset used for training and testing this model can be downloadeded on Zindi through [this] (https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon/data).
+dataset used for training and testing this model can be downloadeded [here](https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon/data)on Zindi.
