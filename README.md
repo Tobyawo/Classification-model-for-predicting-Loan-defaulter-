@@ -13,8 +13,8 @@ The error metric is Area Under the Curve
 The data is a structure dataset pull from the Kowope Mart’s database with few important features that can be used to predict defaulters in retail network. The data sample has been split into train and test with a volume of 56,000 and 24,000.
 
 The files for download are:
-train.csv - you will use this to train your model.
-test.csv - you will use this to test your model.
-SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the UIDs must be correct. You must predict growth_stage for the corresponding images.
+* train.csv - you will use this to train your model.
+* test.csv - you will use this to test your model.
+* SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the UIDs must be correct. You must predict growth_stage for the corresponding images.
 
 dataset used for training and testing this model can be downloadeded [here](https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon/data)on Zindi.
