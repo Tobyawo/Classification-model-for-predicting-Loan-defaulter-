@@ -1,4 +1,4 @@
-  # <h1> Staff promotion algorithm</h1>
+  # <h1> Loan defaulter algorithm</h1>
  <p>This is a Data Science Nigeria AI 2019 pre-bootcamp competition to build an algorithm that can predict staff that are likely to be promoted based on defined personal and performance parameters</p>
  
  # <h2> Description </h2>
